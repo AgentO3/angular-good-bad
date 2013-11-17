@@ -1,4 +1,9 @@
-angular-good-bad
+<A> Good
+<A> Bad
 ================
 
-A talk about the good and bad things to do in AngularJS
+This talk is about how to get the most out of AngularJS and avoid common bad practices.
+
+
+
+
