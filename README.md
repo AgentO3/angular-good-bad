@@ -8,7 +8,7 @@ This talk is about how to get the most out of AngularJS and avoid common bad pra
   * Fairly new to AngularJS
   * Give credit to other team members
 * Folder Structure
-* Dependencies
+* Dependency Injection
 * Templates
 * Controllers
 * Directives
