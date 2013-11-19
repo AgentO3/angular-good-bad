@@ -1,12 +1,13 @@
 Better Angular
 ================
 
-This talk is about how to get the most out of AngularJS and avoid common bad practices.
+At VividCortex we love Angular! It abstracts away the need to directly modify the DOM. It provides an excellent set of 
+methods to help bring structure to your code. Also it's packed with conviance methods to help work with JavaScript objects.
 
 ## Intro
   * Frontend Brainiac at VividCortex
   * Fairly new to AngularJS
-  * Give credit to other team members
+  * Team members
 
 ## Keeping it tidy with JSLint
    * JS needs good oversight
